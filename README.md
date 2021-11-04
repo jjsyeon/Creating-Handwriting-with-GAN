@@ -1,4 +1,4 @@
-# Project title (Capstone design 2020-2)
+# GAN을 통한 손글씨  (Capstone design 2021-2)
 * Student list
 
 ## Overview
