@@ -1,5 +1,5 @@
 # GAN을 통한 손글씨  (Capstone design 2021-2)
-* Student list
+* 소프트웨어융합학과 2019102130 정세연
 
 ## Overview
 * Needs, problems
