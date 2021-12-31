@@ -61,4 +61,4 @@
 
 ## Reports
 * Midterm: [Report](REPORT/데이터분석캡스톤디자인02(중간보고서_정세연).pdf)
-* Final: [Report](REPORT/데이터분석캡스톤디자인03(결과보고서_정세연).pdf), [Demo video](Reports/Demo.mp4)
+* Final: [Report](REPORT/데이터분석캡스톤디자인03(결과보고서_정세연).pdf)
