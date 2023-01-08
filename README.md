@@ -1,4 +1,4 @@
-# GAN을 통한 손글씨 폰트 (Capstone design 2021-2)
+# GAN을 통한 손글씨 폰트 제작(Capstone design 2021-2)
 * 소프트웨어융합학과 2019102130 정세연
 
 ## Overview
